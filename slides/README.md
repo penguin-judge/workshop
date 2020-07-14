@@ -20,7 +20,7 @@ Author: @shiodat @kazuki
 - Rime: https://github.com/icpc-jag/rime
   - プログラミングコンテストの問題セット作成補助ツールです
   - PenguinJudge 向けに一部改良したものを使用します
-    - https://github.com/penguin-judge/PenguinJudge
+    - https://github.com/penguin-judge/rime
 
 
 ---
