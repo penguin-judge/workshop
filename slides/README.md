@@ -62,7 +62,7 @@ Initialized empty Git repository in /home/***/sample-contest/.git/
 
 # PROJECT ファイルの編集
 
-`penguin_config` を編集してPenguinJudgeで読み込みできるようにします
+`penguin_config` を編集してPenguinJudgeで読み込みできるようにします。
 
 ```python
 use_plugin('rime_plus')
@@ -81,6 +81,24 @@ penguin_config(
 
 ...
 ```
+
+---
+
+# プロジェクトの説明の作成
+
+`PROJECT` ファイルと同じ階層に `README.md` を追加することで、PenguinJudge のコンテストトップページに説明を表示できるようになります。内容は特に制限ありません。今回は最低限の内容だけ記述します。
+
+```bash
+$ touch README.md
+$ vi README.md
+```
+
+```markdown
+## Sample Contest
+
+これはサンプルです。
+```
+
 
 ---
 
