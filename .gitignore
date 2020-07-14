@@ -1,0 +1,4 @@
+.gitignore
+rime-out
+*.pyc
+
